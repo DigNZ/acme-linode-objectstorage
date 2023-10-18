@@ -17,7 +17,7 @@ pip install cryptography requests
 The easiest way to install is using [`pip`](https://docs.python.org/3/installing/):
 
 ```
-pip install --user git+https://github.com/dcoles/acme-linode-objectstorage.git
+pip install --user git+https://github.com/DigNZ/acme-linode-objectstorage.git
 ```
 
 Alternatively clone this repository and run `python3 setup.py install --user`.
